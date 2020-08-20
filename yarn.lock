@@ -19,9 +19,9 @@
     react-document-title "^2.0.3"
     react-router-dom "^5.1.2"
 
-"@alitajs/cordova@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/cordova/-/cordova-2.5.10.tgz#33a569bb1bf4c335449983d9f7a9232fa4b9c293"
+"@alitajs/cordova@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/cordova/-/cordova-2.5.12.tgz#3d48cf5d870e39c3cd27acfd09885505a833e011"
   dependencies:
     cordova-app-hello-world "^4.0.0"
     cordova-common "^3.1.0"
@@ -36,86 +36,87 @@
     tmp "^0.1.0"
     valid-identifier "^0.0.2"
 
-"@alitajs/generate@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/generate/-/generate-2.5.10.tgz#f42fe601ec5e2127d87a0edda555a2e682adc6f2"
+"@alitajs/generate@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/generate/-/generate-2.5.12.tgz#c196c469329173103032b94987f0388c4eef1ec1"
 
-"@alitajs/hd@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/hd/-/hd-2.5.10.tgz#d7951eb20d3256d5f3c32cfe3ca0c27ca5326b0e"
+"@alitajs/hd@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/hd/-/hd-2.5.12.tgz#64009d07dbb8990966dbcc44467be6325b91e604"
   dependencies:
     postcss-plugin-px2rem "0.8.1"
     umi-hd "5.0.1"
 
-"@alitajs/keep-alive@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/keep-alive/-/keep-alive-2.5.10.tgz#ed2606291468cd915a286edf356848ffe84eafc2"
+"@alitajs/keep-alive@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/keep-alive/-/keep-alive-2.5.12.tgz#6491b885b3598cf4b06992acc01ebe35df9f79fa"
 
-"@alitajs/layout@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/layout/-/layout-2.5.10.tgz#0c17ac8cfa543913fc9c0e433bcb8eec31c610eb"
+"@alitajs/layout@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/layout/-/layout-2.5.12.tgz#5d705cbd898b306d735e74f489850eee094739d3"
   dependencies:
     "@alitajs/alita-layout" "^2.2.0"
 
-"@alitajs/main-path@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/main-path/-/main-path-2.5.10.tgz#77d30a741b1777a6b660037082e7af2268d2bc31"
+"@alitajs/main-path@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/main-path/-/main-path-2.5.12.tgz#f5e50a8f59c667e7840d75f964f98adf41ce321e"
   dependencies:
-    "@alitajs/utils" "2.5.10"
+    "@alitajs/utils" "2.5.12"
 
-"@alitajs/micro@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/micro/-/micro-2.5.10.tgz#8a2a494d547c4a4e7f0ebc5c205cc7392a7b8938"
+"@alitajs/micro@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/micro/-/micro-2.5.12.tgz#9962ae0bfe963f773aab567ff1f52431196be02e"
   dependencies:
     auto-skeleton-plugin "^0.0.0-beta.4"
 
-"@alitajs/native@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/native/-/native-2.5.10.tgz#64a66e1b0795ac2d11fa774de8285a3899707c3a"
+"@alitajs/native@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/native/-/native-2.5.12.tgz#cc9325318a228dd7a7594e56e6f91d04e0bc497e"
 
-"@alitajs/retain-log@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/retain-log/-/retain-log-2.5.10.tgz#c06cadf481fafdbd3ac2f676efe56b02088749fb"
+"@alitajs/retain-log@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/retain-log/-/retain-log-2.5.12.tgz#a6b662d0097f033e5c7859cb9ac7d75460b4f928"
 
-"@alitajs/router@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/router/-/router-2.5.10.tgz#3f38f083d61ac5fccd293aab744910d19186939a"
+"@alitajs/router@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/router/-/router-2.5.12.tgz#edd56ae2499673930359f957f6078113a190431d"
 
-"@alitajs/routes@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/routes/-/routes-2.5.10.tgz#1f2133a2e5377f4ed3ac03179f293f12edc0e743"
+"@alitajs/routes@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/routes/-/routes-2.5.12.tgz#d420e5efafa4d8cf0393b8da03c3117b63be1465"
 
-"@alitajs/tabs-layout@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/tabs-layout/-/tabs-layout-2.5.10.tgz#be75fd33704b7704b449ec64e40ab77e752013e8"
+"@alitajs/tabs-layout@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/tabs-layout/-/tabs-layout-2.5.12.tgz#b00f32012861d39ca658e0caa75967862ca5382b"
 
-"@alitajs/umi-presets-alita@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/umi-presets-alita/-/umi-presets-alita-2.5.10.tgz#483aee12e168d4f4319f4733164271e8a750fa15"
+"@alitajs/umi-presets-alita@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/umi-presets-alita/-/umi-presets-alita-2.5.12.tgz#0bbf9014a7da0fbc9aa6a55486431db3ebf04c69"
   dependencies:
-    "@alitajs/cordova" "2.5.10"
-    "@alitajs/generate" "2.5.10"
-    "@alitajs/hd" "2.5.10"
-    "@alitajs/keep-alive" "2.5.10"
-    "@alitajs/layout" "2.5.10"
-    "@alitajs/main-path" "2.5.10"
-    "@alitajs/micro" "2.5.10"
-    "@alitajs/native" "2.5.10"
-    "@alitajs/retain-log" "2.5.10"
-    "@alitajs/router" "2.5.10"
-    "@alitajs/routes" "2.5.10"
-    "@alitajs/tabs-layout" "2.5.10"
+    "@alitajs/cordova" "2.5.12"
+    "@alitajs/generate" "2.5.12"
+    "@alitajs/hd" "2.5.12"
+    "@alitajs/keep-alive" "2.5.12"
+    "@alitajs/layout" "2.5.12"
+    "@alitajs/main-path" "2.5.12"
+    "@alitajs/micro" "2.5.12"
+    "@alitajs/native" "2.5.12"
+    "@alitajs/retain-log" "2.5.12"
+    "@alitajs/router" "2.5.12"
+    "@alitajs/routes" "2.5.12"
+    "@alitajs/tabs-layout" "2.5.12"
     "@umijs/plugin-access-layout" "^1.1.0"
     "@umijs/plugin-antd" "^0.5.1"
     "@umijs/plugin-dva" "^0.7.2"
     "@umijs/plugin-esbuild" "^1.0.0-beta.3"
+    "@umijs/plugin-helmet" "^1.0.2"
     "@umijs/plugin-locale" "^0.7.0"
     "@umijs/plugin-model" "^2.3.1"
     "@umijs/plugin-request" "^2.3.2"
 
-"@alitajs/utils@2.5.10":
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/@alitajs/utils/-/utils-2.5.10.tgz#213fb650baa8f503c6cde9dae9e70f58c83d544e"
+"@alitajs/utils@2.5.12":
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/@alitajs/utils/-/utils-2.5.12.tgz#06b8699ef3ae5ae57c144cb194d2e81e284ccf33"
 
 "@ant-design/colors@^3.1.0":
   version "3.2.2"
@@ -1639,6 +1640,12 @@
   dependencies:
     "@types/react" "*"
 
+"@types/react-helmet@6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@types/react-helmet/-/react-helmet-6.0.0.tgz#5b74e44a12662ffb12d1c97ee702cf4e220958cf"
+  dependencies:
+    "@types/react" "*"
+
 "@types/react-redux@^7.1.0":
   version "7.1.9"
   resolved "https://registry.yarnpkg.com/@types/react-redux/-/react-redux-7.1.9.tgz#280c13565c9f13ceb727ec21e767abe0e9b4aec3"
@@ -1952,6 +1959,13 @@
   resolved "https://registry.yarnpkg.com/@umijs/plugin-esbuild/-/plugin-esbuild-1.0.0-beta.3.tgz#e9ce54c2ff566100a859cb47a57fbe7659da52dd"
   dependencies:
     esbuild-webpack-plugin "^1.0.0-beta.3"
+
+"@umijs/plugin-helmet@^1.0.2":
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/@umijs/plugin-helmet/-/plugin-helmet-1.0.2.tgz#9db9d1d257778f94d12587dd6b717af91970e4c9"
+  dependencies:
+    "@types/react-helmet" "6.0.0"
+    react-helmet "6.0.0"
 
 "@umijs/plugin-locale@^0.7.0":
   version "0.7.1"
@@ -2344,11 +2358,11 @@ ajv@^6.1.0, ajv@^6.10.2, ajv@^6.12.2, ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-alita@^2.5.10:
-  version "2.5.10"
-  resolved "https://registry.yarnpkg.com/alita/-/alita-2.5.10.tgz#431b79c69a5acd5ef5406167daadc595ac14fe6d"
+alita@^2.5.12:
+  version "2.5.12"
+  resolved "https://registry.yarnpkg.com/alita/-/alita-2.5.12.tgz#4a832eea803c43425eab8582e3c16d42720f1289"
   dependencies:
-    "@alitajs/umi-presets-alita" "2.5.10"
+    "@alitajs/umi-presets-alita" "2.5.12"
     umi "^3.2.16"
 
 alphanum-sort@^1.0.0:
@@ -8214,6 +8228,19 @@ react-error-overlay@6.0.7:
   version "6.0.7"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.7.tgz#1dcfb459ab671d53f660a991513cb2f0a0553108"
 
+react-fast-compare@^2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-2.0.4.tgz#e84b4d455b0fec113e0402c329352715196f81f9"
+
+react-helmet@6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/react-helmet/-/react-helmet-6.0.0.tgz#fcb93ebaca3ba562a686eb2f1f9d46093d83b5f8"
+  dependencies:
+    object-assign "^4.1.1"
+    prop-types "^15.7.2"
+    react-fast-compare "^2.0.4"
+    react-side-effect "^2.1.0"
+
 react-intl@3.12.0:
   version "3.12.0"
   resolved "https://registry.yarnpkg.com/react-intl/-/react-intl-3.12.0.tgz#98ef1c94434cc25a8c67448e1e283e6bfe11b2fc"
@@ -8333,6 +8360,10 @@ react-side-effect@^1.0.2:
   resolved "https://registry.yarnpkg.com/react-side-effect/-/react-side-effect-1.2.0.tgz#0e940c78faba0c73b9b0eba9cd3dda8dfb7e7dae"
   dependencies:
     shallowequal "^1.0.1"
+
+react-side-effect@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/react-side-effect/-/react-side-effect-2.1.0.tgz#1ce4a8b4445168c487ed24dab886421f74d380d3"
 
 react-tween-state@^0.1.5:
   version "0.1.5"

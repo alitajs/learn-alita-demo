@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "alita": "^2.5.10"
+    "alita": "^2.5.12"
   }
 }
