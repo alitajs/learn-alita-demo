@@ -1,0 +1,16 @@
+{
+  "name": "alita-learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "alita dev",
+    "build": "alita build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alita": "^2.5.10"
+  }
+}
